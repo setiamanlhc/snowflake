@@ -1,6 +1,7 @@
 # Resource
 ## [Better Together Semantic view](https://www.snowflake.com/en/developers/guides/better-together-snowflake-sv-amazon-quicksight/)
-## [Seantic View](https://docs.snowflake.com/en/user-guide/views-semantic/querying)
+## [Better Together Repo](https://github.com/Snowflake-Labs/sfquickstarts/tree/master/site/sfguides/src/better-together-snowflake-sv-amazon-quicksight)
+## [Semantic View](https://docs.snowflake.com/en/user-guide/views-semantic/querying)
 
 Sample question to ask Cortex AI for Movies Database with enhanced Semantic View
 
